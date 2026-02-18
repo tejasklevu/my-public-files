@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <Product>
+    <ProductID>5671290</ProductID>
+    <SKU>HEH-2245-RSWD-SM</SKU>
+    <Name>Simply Sweet Tshirt</Name>
+    <ProductURL>https://www.domain.com/product/heh-2245</ProductURL>
+    <Price>42</Price>
+    <RetailPrice>59.95</RetailPrice>
+    <ThumbnailURL>https://www.domain.com/images/heh-2245_600x600.png</ThumbnailURL>
+    <ParentID>7615</ParentID>
+    <ParentTitle>Simply Sweet Tshirt</ParentTitle>
+    <ParentImage>https://www.domain.com/images/heh-2245_600x600.png</ParentImage>
+    <StandardOptions>{"Color":{"position":1,"values":["Rosewood","Thyme Green"]},"Size":{"position":2,"values":["Small","Medium"]}}</StandardOptions>
+    <VariantPosition>1</VariantPosition>
+    <InStock>true</InStock>
+    <InStockPct>100</InStockPct>
+    <SwatchOptions>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</SwatchOptions>
+    <SelectedOptions>{"Color":{"value":"Rosewood"},"Size":{"value":"Small"}}</SelectedOptions>
+  </Product>
+  <Product>
+    <ProductID>678123</ProductID>
+    <SKU>HEH-2245-RSWD-MD</SKU>
+    <Name>Simply Sweet Tshirt</Name>
+    <ProductURL>https://www.domain.com/product/heh-2245</ProductURL>
+    <Price>42</Price>
+    <RetailPrice>59.95</RetailPrice>
+    <ThumbnailURL>https://www.domain.com/images/heh-2245_600x600.png</ThumbnailURL>
+    <ParentID>7615</ParentID>
+    <ParentTitle>Simply Sweet Tshirt</ParentTitle>
+    <ParentImage>https://www.domain.com/images/heh-2245_600x600.png</ParentImage>
+    <StandardOptions>{"Color":{"position":1,"values":["Rosewood","Thyme Green"]},"Size":{"position":2,"values":["Small","Medium"]}}</StandardOptions>
+    <VariantPosition>2</VariantPosition>
+    <InStock>true</InStock>
+    <InStockPct>100</InStockPct>
+    <SwatchOptions>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</SwatchOptions>
+    <SelectedOptions>{"Color":{"value":"Rosewood"},"Size":{"value":"Medium"}}</SelectedOptions>
+  </Product>
+  <Product>
+    <ProductID>7463</ProductID>
+    <SKU>WKS-5026</SKU>
+    <Name>Silver Lining Dress</Name>
+    <ProductURL>https://www.domain.com/product/wks-5026</ProductURL>
+    <Price>62</Price>
+    <RetailPrice>62</RetailPrice>
+    <ThumbnailURL>https://www.domain.com/images/wks-5026_600x600.png</ThumbnailURL>
+    <SearchKeywords>lorem, ipsum, dolor, ...</SearchKeywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Dresses&gt;Formal Dresses|All Dresses</Category>
+    <CategoryID>220|201</CategoryID>
+    <Brand>Temptation</Brand>
+  </Product>
+</Products>
