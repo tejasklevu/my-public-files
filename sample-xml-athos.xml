@@ -37,6 +37,42 @@
     <SelectedOptions>{"Color":{"value":"Rosewood"},"Size":{"value":"Medium"}}</SelectedOptions>
   </Product>
   <Product>
+    <ProductID>512345</ProductID>
+    <SKU>HEH-2245-THGR-SM</SKU>
+    <Name>Simply Sweet Tshirt</Name>
+    <ProductURL>https://www.domain.com/product/heh-2245</ProductURL>
+    <Price>59.99</Price>
+    <RetailPrice>59.95</RetailPrice>
+    <ThumbnailURL>https://www.domain.com/images/heh-2245_600x600.png</ThumbnailURL>
+    <ParentID>7615</ParentID>
+    <ParentTitle>Simply Sweet Tshirt</ParentTitle>
+    <ParentImage>https://www.domain.com/images/heh-2245_600x600.png</ParentImage>
+    <StandardOptions>{"Color":{"position":1,"values":["Rosewood","Thyme Green"]},"Size":{"position":2,"values":["Small","Medium"]}}</StandardOptions>
+    <VariantPosition>3</VariantPosition>
+    <InStock>true</InStock>
+    <InStockPct>100</InStockPct>
+    <SwatchOptions>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</SwatchOptions>
+    <SelectedOptions>{"Color":{"value":"Thyme Green"},"Size":{"value":"Small"}}</SelectedOptions>
+  </Product>
+  <Product>
+    <ProductID>234567</ProductID>
+    <SKU>HEH-2245-THGR-MD</SKU>
+    <Name>Simply Sweet Tshirt</Name>
+    <ProductURL>https://www.domain.com/product/heh-2245</ProductURL>
+    <Price>59.99</Price>
+    <RetailPrice>59.95</RetailPrice>
+    <ThumbnailURL>https://www.domain.com/images/heh-2245_600x600.png</ThumbnailURL>
+    <ParentID>7615</ParentID>
+    <ParentTitle>Simply Sweet Tshirt</ParentTitle>
+    <ParentImage>https://www.domain.com/images/heh-2245_600x600.png</ParentImage>
+    <StandardOptions>{"Color":{"position":1,"values":["Rosewood","Thyme Green"]},"Size":{"position":2,"values":["Small","Medium"]}}</StandardOptions>
+    <VariantPosition>4</VariantPosition>
+    <InStock>true</InStock>
+    <InStockPct>100</InStockPct>
+    <SwatchOptions>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</SwatchOptions>
+    <SelectedOptions>{"Color":{"value":"Thyme Green"},"Size":{"value":"Medium"}}</SelectedOptions>
+  </Product>
+  <Product>
     <ProductID>7463</ProductID>
     <SKU>WKS-5026</SKU>
     <Name>Silver Lining Dress</Name>
