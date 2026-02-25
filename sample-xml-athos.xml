@@ -15,7 +15,7 @@
     <__variant_position>1</__variant_position>
     <__in_stock>true</__in_stock>
     <__in_stock_pct>100</__in_stock_pct>
-    <__swatch_options>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
+    <__swatch_options>{"Color":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
     <__selected_options>{"Color":{"value":"Rosewood"},"Size":{"value":"Small"}}</__selected_options>
   </Product>
   <Product>
@@ -33,7 +33,7 @@
     <__variant_position>2</__variant_position>
     <__in_stock>true</__in_stock>
     <__in_stock_pct>100</__in_stock_pct>
-    <__swatch_options>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
+    <__swatch_options>{"Color":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
     <__selected_options>{"Color":{"value":"Rosewood"},"Size":{"value":"Medium"}}</__selected_options>
   </Product>
   <Product>
@@ -51,7 +51,7 @@
     <__variant_position>3</__variant_position>
     <__in_stock>true</__in_stock>
     <__in_stock_pct>100</__in_stock_pct>
-    <__swatch_options>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
+    <__swatch_options>{"Color":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
     <__selected_options>{"Color":{"value":"Thyme Green"},"Size":{"value":"Small"}}</__selected_options>
   </Product>
   <Product>
@@ -69,7 +69,7 @@
     <__variant_position>4</__variant_position>
     <__in_stock>true</__in_stock>
     <__in_stock_pct>100</__in_stock_pct>
-    <__swatch_options>{"Rosewood":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
+    <__swatch_options>{"Color":{"value":"Rosewood","colors":["#65000b"],"image":"/images/heh-2245-rswd-sm_600x600.png"},"Thyme Green":{"value":"Thyme Green","image":"/swatches/thyme_green.png"}}</__swatch_options>
     <__selected_options>{"Color":{"value":"Thyme Green"},"Size":{"value":"Medium"}}</__selected_options>
   </Product>
   <Product>
